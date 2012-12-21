@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION  用于解析html代码
 
 Hpple: A nice Objective-C wrapper on the XPathQuery library for parsing HTML.
 
